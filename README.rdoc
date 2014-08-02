@@ -1,0 +1,7 @@
+==Usage
+
+Tests are written in rspec for exercises 1, 2, and 5. 
+Make sure you have rspec installed <tt> gem install rspec</tt>
+and simply run <tt>rspec</tt> after navigating to the given subdirectory.
+
+For excersises 3 and 4 which are visual in nature, run <tt> ruby *filename* </tt>
